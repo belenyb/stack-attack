@@ -28,7 +28,7 @@ To run this game locally, follow these steps:
    ```
    2- Navigate to the project directory:
 ```bash
-cd stack-game
+cd stack-attack
 ```
 3- Open index.html in your browser to play the game locally.
 
