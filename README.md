@@ -1,4 +1,4 @@
-# Stack Game 🎮
+# Stack Attack! 🎮
 
 ![App Screenshot](stack-attack.png)
 
